@@ -1,0 +1,5 @@
+rootProject.name = 'otus-UI-1-leson'
+include 'tests-junit'
+include 'tests-testng'
+include 'model'
+
